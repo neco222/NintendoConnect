@@ -1,2 +1,3 @@
 # NintendoConnect
 Discordにプレイ中を再生します
+IPアドレスを監視するシステムですので、ログインは一切不要です
