@@ -1,7 +1,7 @@
 [
   {"console":0,"client_id":"1454376057288396923","image":"nintendo_3ds","name":"Nintendo 3DS"},
-  {"console":0,"client_id":"1454378299940671519","image":"ps4","name":"PlayStation4"},
-  {"console":0,"client_id":"1454379784795848729","image":"ps5","name":"PlayStation5"},
-  {"console":1,"client_id":"1454363966712053852","image":"nintendo_switch","name":"Nintendo Switch"},
-  {"console":1,"client_id":"1454375565367709786","image":"nintendo_switch_2","name":"Nintendo Switch 2"}
+  {"console":1,"client_id":"1454378299940671519","image":"ps4","name":"PlayStation4"},
+  {"console":2,"client_id":"1454379784795848729","image":"ps5","name":"PlayStation5"},
+  {"console":3,"client_id":"1454363966712053852","image":"nintendo_switch","name":"Nintendo Switch"},
+  {"console":4,"client_id":"1454375565367709786","image":"nintendo_switch_2","name":"Nintendo Switch 2"}
 ]
