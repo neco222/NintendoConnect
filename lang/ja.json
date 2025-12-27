@@ -1,0 +1,24 @@
+{
+  "start": "起動しました。",
+  "connected": "再接続しました。",
+  "turned_on": "{0} がオンラインになりました（IP: {1}）。",
+  "turned_off": "オフラインになりました。",
+  "connection_lost": "接続が不安定です…（{0}）",
+
+  "config_main_menu": "0:追加  1:削除  2:終了",
+  "add_console": "機器を選択してください:",
+  "custom_device": "カスタム / その他",
+
+  "type_console_name": "機器名を入力してください:",
+  "type_console_ip": "IPアドレスを入力してください:",
+  "type_custom_client_id": "DiscordアプリケーションID（空欄で自動）:",
+  "type_custom_image": "画像キー（空欄で others）:",
+
+  "delete_console": "削除する番号を入力（0-{0}）、キャンセルは {0}:",
+  "deleted": "削除しました。",
+  "added": "追加しました。",
+  "goodby": "終了します。",
+  "console_not_found": "登録された機器がありません。",
+
+  "gamelist_failed": "【エラー】GameList.json の取得に失敗しました。"
+}
